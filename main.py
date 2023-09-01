@@ -17,8 +17,7 @@ print("Bot started...")
 
 API_TOKEN = 'BOT_TOKEN_HERE'
 
-bot = Bot(token="5841113758:AAGgnScZeQHbDdKAl1awDL_YVjhOaeRIe1Y")
-# dp = Dispatcher("5841113758:AAGgnScZeQHbDdKAl1awDL_YVjhOaeRIe1Y")
+bot = Bot(token="xxx")
 
 def start_command(update, context):
   
