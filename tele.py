@@ -16,7 +16,7 @@ from requests_html import HTML
 from requests_html import HTMLSession
 from difflib import SequenceMatcher
 
-API_TOKEN = '5841113758:AAGgnScZeQHbDdKAl1awDL_YVjhOaeRIe1Y'
+API_TOKEN = 'xxxx'
 
 logging.basicConfig(level=logging.INFO)
 
